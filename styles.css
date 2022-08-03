@@ -1,0 +1,39 @@
+.header {
+    color: purple;
+    font-size: 56px;
+    text-align: center;
+}
+
+.recipe,
+.cream,
+p {
+    color: rgb( 40, 174, 228);
+}
+
+.pizzaz {
+    color: red;
+}
+
+.header,
+.recipe,
+p,
+.pizzaz {
+    font-family: "Times New Roman", sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+
+.brown,
+.lilbrown {
+    color: Brown;
+    background-color: bisque;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
